@@ -15,14 +15,11 @@
     word-wrap: break-word;
 }
 
-.citation{
-          padding-bottom:1em;
-          font-size:30px;
-    text-align:justify;
-}
 .citation {
     text-align: center;
     padding-bottom: 1em;
+    font-size:30px;
+
 }
 
 .button {
