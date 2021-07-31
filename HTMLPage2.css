@@ -15,7 +15,7 @@
     word-wrap: break-word;
 }
 
-.citation{text-align:center;
+.citation{
           padding-bottom:1em;
           font-size:30px;
     text-align:justify;
@@ -67,6 +67,8 @@
 }
 
 .lienblog{color : white;}
+
+#lienblogg{color:white;};
 
 a { color: inherit; } 
 
