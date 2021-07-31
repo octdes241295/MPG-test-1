@@ -1,8 +1,7 @@
 //gogogogog
 var list = [
-    { citation: 'citation11111111111111111111111111111111111111111111', author: 'author1', color: 'green' },
-    { citation: 'citation2222222222222222222222222222222222222222222', author: 'author2', color: 'blue' },
-    { citation: 'citation33333333333333333333333333333333333333333333', author: 'author3', color: 'red' }
+    { citation: 'Impose ta chance, serre ton bonheur et va vers ton risque. A te regarder, ils s’habitueront.', author: 'René Char', color: 'green' },
+    { citation: 'Chacun de nous est responsable de tout devant tous.', author: 'Fiodor Dostoievski', color: 'blue' },
 ];
 
 
