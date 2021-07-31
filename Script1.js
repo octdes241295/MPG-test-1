@@ -41,21 +41,7 @@ function myFunction() {
 }
 
 
-var app1 = new Vue({
-    el: '#app-1',
-    data: {
-        message: "tweet"
 
-    }
-})
-
-var app2 = new Vue({
-    el: '#app-2',
-    data: {
-        message: "post"
-
-    }
-})
 
 
 
