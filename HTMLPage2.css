@@ -1,0 +1,69 @@
+﻿
+
+
+.rectangle {
+    display: block;
+    background-color: white;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    padding: 30px;
+    border-radius: 10px;
+    max-width: 40%;
+    margin: 0;
+    word-wrap: break-word;
+}
+
+.citation{text-align:center;
+          padding-bottom:1em;
+          font-size:30px;
+}
+.citation {
+    text-align: left;
+    padding-bottom: 1em;
+}
+
+.button {
+
+    color: white;
+    border: none;
+}
+
+.bas {
+    text-align: center;
+    margin: 0;
+    color: yellow;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+}
+
+
+
+
+
+.size {
+    font-size: 30px;
+}
+
+.flex-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top:20px;
+}
+
+.hover:hover {
+    opacity: 0.5;
+    cursor: pointer;
+}
+
+.inherit {
+    text-decoration: none;
+    color: inherit;
+}
+
+
+
