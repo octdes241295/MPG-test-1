@@ -19,11 +19,11 @@
     .citation {
         text-align: center;
         padding-bottom: 1em;
-        font-size: 80px;
+        font-size: 60px;
     }
     .rectangle {
         background-color: white;
-        max-width: 80%;
+        max-width: 95%;
         padding: 10px;
         border-radius: 30px;
         word-wrap: break-word;
